@@ -1,0 +1,11 @@
+read, modify or delete the contents of USB storage
+view Wi-Fi connections
+read phone status and identity
+add or modify calendar events and send email to guests
+read calendar events plus confidential information
+approximate location (network-based)
+receive data from Internet
+change audio settings
+control vibration
+draw over other apps
+view network connections
